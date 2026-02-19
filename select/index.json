@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "NOKIA",
+  "base_artist": "Drake",
+  "createdAt": "2026-02-19T00:09:45.400832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody's A Nun(Nokia 手机广告曲)",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/01_Nobody's_A_Nun(Nokia_手机广告曲)_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slumber Party (feat. Princess Nokia) [HAAi Radio Edit]",
+      "artist": "Ashnikko",
+      "has_synced": true,
+      "path": "select/02_Slumber_Party_(feat._Princess_Nokia)_[HAAi_Radio_Edit]_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slumber Party (feat. Princess Nokia)",
+      "artist": "Ashnikko",
+      "has_synced": true,
+      "path": "select/03_Slumber_Party_(feat._Princess_Nokia)_Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slumber Party (feat. Princess Nokia)",
+      "artist": "Ashnikko feat. Princess Nokia",
+      "has_synced": true,
+      "path": "select/04_Slumber_Party_(feat._Princess_Nokia)_Ashnikko_feat._Princess_Nokia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/05_Free_Fallin'_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Free Fallin' (Live at the Nokia Theatre, Los Angeles, CA - December 2007)",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/06_Free_Fallin'_(Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007)_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Belief - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/07_Belief_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come When I Call - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/08_Come_When_I_Call_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daughters - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/09_Daughters_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everyday I Have The Blues - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/10_Everyday_I_Have_The_Blues_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_Decembe_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Love Is On the Way - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/11_Good_Love_Is_On_the_Way_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December__John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gravity - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/12_Gravity_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Need No Doctor - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": false,
+      "path": "select/13_I_Don't_Need_No_Doctor_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2_John_Mayer.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Don't Trust Myself (With Loving You) - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/14_I_Don't_Trust_Myself_(With_Loving_You)_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Gonna Find Another You - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/15_I'm_Gonna_Find_Another_You_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_Decemb_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "In Your Atmosphere - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/16_In_Your_Atmosphere_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Neon - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": false,
+      "path": "select/17_Neon_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Out of My Mind - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": false,
+      "path": "select/18_Out_of_My_Mind_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/19_Slow_Dancing_in_a_Burning_Room_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_De_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Stop This Train - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/20_Stop_This_Train_-_Live_at_the_Nokia_Theatre,_Los_Angeles,_CA_-_December_2007_John_Mayer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOKIA",
+      "artist": "Drake",
+      "has_synced": false,
+      "path": "select/pl_01_NOKIA_Drake.txt"
+    }
+  ]
+}
